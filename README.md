@@ -8,6 +8,10 @@ This repository contains a Python-based project that analyzes consumer price ind
 - **Merging Datasets**: Combines CPI data with consumer item price data to calculate real prices.
 - **Output**: Generates a cleaned and merged dataset (`tableau_data.csv`) for visualization and further analysis.
 
+##Tableau Dashboard
+- Interactive Visualisation: Explore the live dashboard on Tableau Public (https://public.tableau.com/app/profile/alson.lam/viz/SGpricevsCPi/Dashboard3?publish=yes)
+- Dashboard Screenshot: ![Dashboard Screenshot](Tableau/singapore cpi dashboard picture.png)
+
 ## Files in the Repository
 ### 1. `SG-CPI-analysis_cleaned.py`
 This is the main Python script that performs the following tasks:
