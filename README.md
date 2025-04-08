@@ -10,7 +10,7 @@ This repository contains a Python-based project that analyzes consumer price ind
 
 ## Tableau Dashboard
 - Interactive Visualisation: Explore the live dashboard on Tableau Public (https://public.tableau.com/app/profile/alson.lam/viz/SGpricevsCPi/Dashboard3?publish=yes)
-- Dashboard Screenshot: ![Dashboard Screenshot](Tableau/singapore cpi dashboard picture.png)
+- Dashboard Screenshot: ![Dashboard Screenshot](https://github.com/user-attachments/assets/46e9ced3-b849-41b0-8c37-465ee4f926bd)
 
 ## Files in the Repository
 ### 1. `SG-CPI-analysis_cleaned.py`
